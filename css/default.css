@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+  body{
+      background-color:dimgray;
+  }
+  
+  .container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 720px;
+  
+  }
+  
+   section{
+    margin-bottom: 15px;
+    background-color: #FFF;
+  }
+  
+  .my-info-text
+  {
+      font-size: 20px;
+      font-weight: normal;
+  }
+  
+  .wrapper{
+    position: relative;
+    margin-top: 10px;
+  }
+  
+  .project-info-text{
+    width: 500px;
+  }
+  
+  .button-box {
+    position:absolute;
+    bottom: 18px;
+    left: 520px;
+  }
+  
+  .button {
+   color: white;
+   font-weight: normal;
+   background-color: #4CAF50;
+   padding: 10px 20px;
+   border: none;
+  }
